@@ -12,7 +12,7 @@ const songs = [
     title: "Crystal",
     name: "Froid",
     source:
-      "",
+      "https://github.com/jayazin76/musica/raw/refs/heads/main/Music/musica/Cristal%20-%20Froid%20(ao%20vivo%20na%20cozinha)%20-%20Froid%20(youtube).mp3",
   },
   {
     title: "Pawn It All",
