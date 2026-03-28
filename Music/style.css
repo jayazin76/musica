@@ -184,3 +184,16 @@ body {
 .controls button:nth-child(2):is(:hover, :focus-visible) {
   transform: scale(1.25);
 }
+
+.back a{
+  text-transform: uppercase;
+  border: solid #ff00ea4b;
+  background-color: #ff00ea3b;
+  font-size: bold;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  text-align: center;
+  width: 5rem;
+  border-radius: 0.5rem;
+}
