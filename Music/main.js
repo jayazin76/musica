@@ -15,20 +15,20 @@ const songs = [
       "https://github.com/jayazin76/musica/raw/refs/heads/main/Music/musica/Cristal%20-%20Froid%20(ao%20vivo%20na%20cozinha)%20-%20Froid%20(youtube).mp3",
   },
   {
-    title: "Pawn It All",
-    name: "Alicia Keys",
+    title: "Barcelona",
+    name: "L7NONN, PK",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Pawn-It-All.mp3",
+      "https://github.com/jayazin76/musica/raw/refs/heads/main/final/Music/musica/L7NNON,%20PK,%20Mun%20Ra%20-%20Barcelona%20%5BPapasessions%20%232%5D%20-%20Papatunes%20(youtube).mp3",
   },
   {
-    title: "Seni Dert Etmeler",
-    name: "Madrigal",
+    title: "Refém",
+    name: "Xamã, L7NNON, Maia, John",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Madrigal-Seni-Dert-Etmeler.mp3",
+      "https://github.com/jayazin76/musica/raw/refs/heads/main/final/Music/musica/Xam%C3%A3,%20L7NNON,%20Maia,%20John%20-%20Ref%C3%A9m%20%5BPapasessions%20%233%5D%20-%20Papatunes%20(youtube).mp3",
   },
   {
-    title: "Instant Crush",
-    name: "Daft Punk ft. Julian Casablancas",
+    title: "Poesia Acústica #2 - Sobre Nós",
+    name: "Delacruz I Maria I Ducon I Luiz Lins I Diomedes I Bk' I Kayuá",
     source:
       "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Daft-Punk-Instant-Crush.mp3",
   },
