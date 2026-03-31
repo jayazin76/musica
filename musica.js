@@ -36,26 +36,26 @@ const songs = [
     title: "Eu juro",
     name: "Ferrugem",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Harry-Styles-As-It-Was.mp3",
+      "https://github.com/jayazin76/musica/raw/refs/heads/main/Music/musica/FERRUGEM%20EU%20JURO%20(LYRIC%20V%C3%8DDEO)%20-%20Ferrugem%20(youtube).mp3",
   },
 
   {
     title: "Ta na cara",
     name: "Ferrugem",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Dua-Lipa-Physical.mp3",
+      "https://github.com/jayazin76/musica/raw/refs/heads/main/Music/musica/Ferrugem%20-%20T%C3%A1%20na%20Cara%20DVD%20Ch%C3%A3o%20De%20Estrelas%20-%20Ferrugem%20(youtube).mp3",
   },
   {
     title: "perdição",
     name: "L7NNON",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Taylor-Swift-Delicate.mp3",
+      "https://github.com/jayazin76/musica/raw/refs/heads/main/Music/musica/9.%20L7NNON%20-%20Perdi%C3%A7%C3%A3o%20%20HHR%20-%20L7NNON%20(youtube).mp3",
   },
   {
     title: "Leal",
     name: "Djonga",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Taylor-Swift-Delicate.mp3",
+      "https://github.com/jayazin76/musica/raw/refs/heads/main/Music/musica/3%20.%20Djonga%20-%20Leal%20-%20Djonga%20(youtube).mp3",
   },
 ];
 
