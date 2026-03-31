@@ -33,21 +33,27 @@ const songs = [
       "https://github.com/jayazin76/musica/raw/refs/heads/main/Music/musica/Xam%C3%A3,%20L7NNON,%20Maia,%20John%20-%20Ref%C3%A9m%20%5BPapasessions%20%233%5D%20-%20Papatunes%20(youtube).mp3",
   },
   {
-    title: "As It Was",
-    name: "Harry Styles",
+    title: "Eu juro",
+    name: "Ferrugem",
     source:
       "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Harry-Styles-As-It-Was.mp3",
   },
 
   {
-    title: "Physical",
-    name: "Dua Lipa",
+    title: "Ta na cara",
+    name: "Ferrugem",
     source:
       "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Dua-Lipa-Physical.mp3",
   },
   {
-    title: "Delicate",
-    name: "Taylor Swift",
+    title: "perdição",
+    name: "L7NNON",
+    source:
+      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Taylor-Swift-Delicate.mp3",
+  },
+  {
+    title: "Leal",
+    name: "Djonga",
     source:
       "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Taylor-Swift-Delicate.mp3",
   },
