@@ -21,9 +21,9 @@ body {
   justify-content: center;
   min-height: 100vh;
   width: 100%;
-  background: url(https://raw.githubusercontent.com/jayazin76/musica/refs/heads/main/fotos/Balan%C3%A7as%20e%20brilhos%20em%20tons%20de%20roxo.png);
+  background: url(https://github.com/jayazin76/musica/blob/main/fotos/ChatGPT%20Image%2030%20de%20mar.%20de%202026,%2021_23_06.png?raw=true);
   background-repeat: no-repeat;
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(8px);
   animation: slidein 120s forwards infinite alternate;
 }
